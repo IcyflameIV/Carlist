@@ -21,5 +21,6 @@
   -sweetalert2 : npm i sweetalert2
   
 <h2> Wireframes<h2>
-![image]( https://viewer.diagrams.net/js/viewer-static.min.js)
+  
+  ![image](file:///C:/Users/Admin/Downloads/carlist.drawio%20(1).svg)
  
