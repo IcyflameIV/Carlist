@@ -21,3 +21,5 @@
   -sweetalert2 : npm i sweetalert2
   
 <h2> Wireframes<h2>
+![image]( https://viewer.diagrams.net/js/viewer-static.min.js)
+ 
