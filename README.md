@@ -1,7 +1,7 @@
 # Carlist
 
 <h2> Basic Routes </h2>
- -/  Homepage to show car-list
+ -/  Homepage to show listed cars.
 
 <h2>State Management using Redux </h2>
 
