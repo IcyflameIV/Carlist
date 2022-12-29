@@ -13,11 +13,11 @@
   
   -View More: Views the full details of the car Model.
   
-  <h2>UI libraries</h2>
-  
-  npm i react-bootstrap
-     
-  npm i sweetalert2 
-     
+<h2>UI library</h2>
 
+
+  -react-bootstrap : npm i react-bootstrap     
+  
+  -sweetalert2 : npm i sweetalert2
+  
 <h2> Wireframes<h2>
