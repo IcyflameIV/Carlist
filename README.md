@@ -22,5 +22,5 @@
   
 <h2> Wireframes<h2>
   
-  ![image](file:///C:/Users/Admin/Downloads/carlist.drawio%20(1).svg)
+  ![image](https://github.com/IcyflameIV/Carlist/blob/4603f583b3146745ab506d043fb47d0da026eb5b/carlist.drawio.svg)
  
